@@ -1,7 +1,7 @@
 {
-    "name": "shadz3rg/php-stamp",
+    "name": "keyboarduz/php-stamp",
     "description": "The XSL-way templating library for MS Office Word DOCX documents.",
-    "homepage": "https://github.com/shadz3rg/php-stamp",
+    "homepage": "https://github.com/keyboarduz/php-stamp",
     "type": "library",
     "keywords": ["docx", "template", "word"],
     "license": "MIT",
